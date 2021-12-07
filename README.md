@@ -1,2 +1,2 @@
-# netty-in-action-examples
+# netty-in-action
 《Netty in Action》书中样例代码
