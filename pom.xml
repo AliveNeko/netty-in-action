@@ -10,6 +10,9 @@
     <description>《Netty in Action》样例代码</description>
     <modules>
         <module>chapter1</module>
+        <module>chapter2</module>
+        <module>chapter3</module>
+        <module>chapter4</module>
     </modules>
 
     <packaging>pom</packaging>
