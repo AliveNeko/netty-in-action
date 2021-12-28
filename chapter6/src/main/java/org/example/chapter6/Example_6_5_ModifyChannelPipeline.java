@@ -4,7 +4,7 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.channel.ChannelPipeline;
 import io.netty.channel.socket.nio.NioSocketChannel;
 
-public class Example_6_4_ModifyChannelPipeline {
+public class Example_6_5_ModifyChannelPipeline {
     public static void main(String[] args) {
         ChannelPipeline pipeline = new NioSocketChannel().pipeline();
         FirstHandler firstHandler = new FirstHandler();
