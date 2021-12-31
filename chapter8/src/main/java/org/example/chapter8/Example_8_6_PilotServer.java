@@ -13,7 +13,7 @@ import io.netty.channel.socket.nio.NioSocketChannel;
 
 import java.net.InetSocketAddress;
 
-public class Example_8_5_PilotServer {
+public class Example_8_6_PilotServer {
     public static void main(String[] args) {
         // 创建 ServerBootstrap 以创建 ServerSocketChannel，并绑定它
         ServerBootstrap serverBootstrap = new ServerBootstrap();
